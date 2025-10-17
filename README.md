@@ -1,11 +1,12 @@
 # Task Manager
 
 ## Description
-A simple task manager web application that allows users to add and remove tasks.
+A simple task manager web application that allows users to add and remove tasks, along with setting due dates for tasks.
 
 ## Features
 - Add new tasks
 - Remove existing tasks
+- Set due dates for tasks
 
 ## Installation
 1. Clone the repository:
@@ -17,6 +18,7 @@ A simple task manager web application that allows users to add and remove tasks.
 
 ## Usage
 - Type a task in the input field and click 'Add Task' to add it to the list.
+- Set a due date for the task using the calendar input.
 - Click 'Remove' next to a task to delete it from the list.
 
 ## License
